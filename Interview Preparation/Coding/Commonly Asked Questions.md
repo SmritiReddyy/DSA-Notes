@@ -1,5 +1,11 @@
 - Given a random string of alphabets check if it's possible to make a palindrome or not - optimise it 
 - It was to find a top k most frequently viewed items in a list.. it was a simple hashmap problem
+- Given an array of integers, find the two numbers that add up to a specific target.
+- Write a function to reverse a linked list.
+- How would you find the shortest path in a graph?
+- Design a system to implement a cache (e.g., LRU Cache).
+- Given a binary tree, write an algorithm to determine if it’s a balanced tree.
+- Implement a function to check if a string is a palindrome.
 
 - We are given an access log where each entry consists of a timestamp and a customer ID. Our goal is to count the number of repeat customers, defined as customers who have used the feature on more than one distinct day.
 LRU Cache 
