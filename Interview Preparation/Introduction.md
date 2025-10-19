@@ -1,0 +1,5 @@
+Hi, I’m Smriti Reddy, a master’s student in Computer Science at Northeastern University, Boston. I completed my bachelor's in Computer Science in India. Currently, I’m studying Foundations of AI and Algorithms, and I plan to take Building Scalable Distributed Systems and Foundations of Software Engineering to deepen my expertise in system design and automation.
+
+In my final year of Undergrad, I was an intern at National Institute of Advanced studies where we worked on a project on Land Use and Land Cover Classification using Satellite Images under ISRO chair  professor - Dr.PG Diwakar. I was also able to publish a paper under him during this time. My last internship was as a Web Development Intern at Mekhalyn Consulting, where I worked on their Automated Recruitment Management System using Node.js and React. Before that, as an AI Engineering Intern at Vitesco Technologies, I developed a demographic classification model and explored Robotic Process Automation.
+
+I’m passionate about building scalable, cloud-native solutions, and I’m excited about the opportunity to bring my skills in software development, DevOps, and AI-driven automation.
